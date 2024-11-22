@@ -47,7 +47,7 @@ class CalcCtrl {
             $monthly_interest = $this->form->interest / 100 / 12;
             $months = $this->form->years * 12;
 
-            // Additional validation for zero values
+            
             if ($monthly_interest == 0 || $months == 0) {
                 $errors[] = 'Oprocentowanie i okres kredytu muszą być większe niż 0.';
             } else {
@@ -56,7 +56,7 @@ class CalcCtrl {
             }
         }
 
-        // Always assign error_message, even if it's empty
+        
         $this->smarty->assign('error_message', $errors);
 
         $this->smarty->assign('form', $this->form);
