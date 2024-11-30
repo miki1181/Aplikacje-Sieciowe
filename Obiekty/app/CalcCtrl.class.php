@@ -1,6 +1,7 @@
 <?php
 require_once dirname(__FILE__).'/../config.php';
 require_once $conf->root_path.'/lib/smarty/Smarty.class.php';
+require_once $conf->root_path.'/lib/Messages.class.php';
 require_once $conf->root_path.'/app/CalcForm.class.php';
 require_once $conf->root_path.'/app/CalcResult.class.php';
 
