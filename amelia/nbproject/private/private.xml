@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/controllers/HelloCtrl.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/onload_db.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/config.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/Hello.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/Messages.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/RoleUtils.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/app/views/templates/main.tpl</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/public/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/routing.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/core/App.class.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/index.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/ctrl.php</file>
+            <file>file:/C:/xampp/htdocs/MikolajBoborowski/init.php</file>
+        </group>
+    </open-files>
+</project-private>
